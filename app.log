@@ -1,0 +1,7 @@
+2025-07-08 15:03:22,940 - my_app - INFO - File size of droids.parquet: 8.13 KB
+2025-07-08 15:03:22,956 - my_app - INFO - DataFrame loaded from droids.parquet
+2025-07-08 15:03:22,957 - my_app - INFO - DataFrame info: {'shape': (10, 10), 'schema': Schema({'id': Int64, 'name': String, 'model': String, 'manufacturer': String, 'height': Float64, 'mass': Float64, 'sensor_color': String, 'plating_color': String, 'primary_function': String, 'films': String}), 'columns': ['id', 'name', 'model', 'manufacturer', 'height', 'mass', 'sensor_color', 'plating_color', 'primary_function', 'films'], 'dtypes': [Int64, String, String, String, Float64, Float64, String, String, String, String]}
+2025-07-08 15:03:22,961 - my_app - INFO - DataFrame saved to droids.csv
+2025-07-08 15:23:00,463 - my_app - INFO - File size of droids.parquet: 8.13 KB
+2025-07-08 15:23:00,474 - my_app - INFO - DataFrame loaded from droids.parquet
+2025-07-08 15:23:00,542 - my_app - INFO - DataFrame saved to droids.csv
